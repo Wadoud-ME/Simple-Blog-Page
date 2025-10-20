@@ -24,17 +24,17 @@ export const slides = [
 
 export const gridItems = [
   {
-    img: "../../public/images/card-1.jpg",
+    img: "/images/card-1.jpg",
     tag: "Lifestyle",
     title: "Best Places to visit in the World",
   },
   {
-    img: "../../public/images/card-2.jpg",
+    img: "/images/card-2.jpg",
     tag: "Lifestyle",
     title: "How much will it Cost to Travel?",
   },
   {
-    img: "../../public/images/card-3.jpg",
+    img: "/images/card-3.jpg",
     tag: "Lifestyle",
     title: "Where can People travel right now?",
   },
@@ -54,4 +54,3 @@ export const gridItems = [
     title: "What do you Gain from Traveling?",
   },
 ];
-
